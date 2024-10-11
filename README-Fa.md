@@ -21,13 +21,13 @@
 کلون کردن مخزن:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/masoudgb/Gost-ip6/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ABOLFAZLnova/Gost-ip6/main/install.sh)
    ```
 
  نسخه سفارشی:
 
 ```bash
-bash <(curl -Ls https://github.com/masoudgb/Gost-ip6/raw/v2.1.7/Gost.sh)
+bash <(curl -Ls https://github.com/ABOLFAZLnova/Gost-ip6/raw/v2.1.7/Gost.sh)
    ```
 
 
